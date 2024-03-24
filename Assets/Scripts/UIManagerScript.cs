@@ -109,6 +109,6 @@ public class UIManagerScript : MonoBehaviour
     }
     public void GoToMyChannel()
     {
-        Application.OpenURL("https://www.youtube.com/@bulletprooves");
+        Application.OpenURL("https://www.youtube.com/@bulletprooves"); // visit my Y0uTubeChannel
     }
 }
