@@ -67,7 +67,7 @@ public class CaesarControlScript : MonoBehaviour
             if (transform.eulerAngles.z > -0.5f && transform.eulerAngles.z < 0.5f)
                 AngleModify();
 
-        outerCaesar.transform.eulerAngles = new Vector3(0, 0, -13.84f * UIManagerScript.keyNum);
+        outerCaesar.transform.eulerAngles = new Vector3(0, 0, -13.846f * UIManagerScript.keyNum);
     }
 
     // 각도 수정 메서드
