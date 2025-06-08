@@ -8,3 +8,5 @@
 맞춰보는 것 말고는 별다른 기능은 없습니다.
 
 실행 영상 : https://youtu.be/Ig5RhIJuri8
+
+![image](https://github.com/user-attachments/assets/0546ca47-0dfd-4656-b01e-38fd819c162c)
